@@ -1,2 +1,1 @@
-# practice_page_1
-Practice Page 
+Practice page only - for practicing skills learned between HTML, CSS, JS
